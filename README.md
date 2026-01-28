@@ -2,7 +2,7 @@
 
 A real-time, interactive dashboard visualizing the performance and technical architecture of top Solana-based Perpetual DEXs.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](public/dashboard_preview.png)
 
 ## 🚀 Overview
 
